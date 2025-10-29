@@ -1,0 +1,20 @@
+{
+  "setsupremeadmin": "supreme_admin",
+  "removesupremeadmin": "supreme_admin",
+  "addadmin": "supreme_admin",
+  "removeadmin": "supreme_admin",
+  "addpriority": "admin",
+  "removepriority": "admin",
+  "reload": "admin",
+  "debug": "user",
+  "cleanupdms": "supreme_admin",
+  "vipban": "admin",
+  "vipkick": "admin",
+  "vipunban": "admin",
+  "warn": "admin",
+  "mute": "admin",
+  "unmute": "admin",
+  "bio": "supreme_admin",
+  "unluck": "admin",
+  "xoa": "admin"
+}
