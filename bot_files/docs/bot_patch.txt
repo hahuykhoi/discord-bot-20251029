@@ -1,0 +1,38 @@
+# ===== ADD TO TOP OF bot_refactored.py =====
+
+import json
+import os
+
+def load_server_restriction():
+    """Load server restriction config"""
+    try:
+        if os.path.exists('data/server_restriction.json'):
+            with open('data/server_restriction.json', 'r', encoding='utf-8') as f:
+                return json.load(f)
+    except:
+        pass
+    return {"enabled": False}
+
+SERVER_RESTRICTION = load_server_restriction()
+
+# ===== REPLACE on_message FUNCTION =====
+
+async def on_message(self, message):
+    """Handle incoming messages with server restriction"""
+    
+    # Skip bot messages
+    if message.author.bot:
+        return
+    
+    # CHECK SERVER RESTRICTION
+    if SERVER_RESTRICTION.get("enabled", False):
+        allowed_server_id = SERVER_RESTRICTION.get("allowed_server_id")
+        if allowed_server_id and str(message.guild.id) != str(allowed_server_id):
+            # Bot will not respond in unauthorized servers
+            return
+    
+    # Continue with normal message processing...
+    # (rest of your on_message code here)
+    
+    # Process commands
+    await self.bot.process_commands(message)
