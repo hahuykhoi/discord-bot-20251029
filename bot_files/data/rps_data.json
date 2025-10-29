@@ -1,0 +1,46 @@
+{
+  "1250688186422923367": {
+    "total_games": 77,
+    "wins": 61,
+    "losses": 16,
+    "draws": 0,
+    "total_bet": 5020750972,
+    "total_won": 1085709234,
+    "total_lost": 101,
+    "balance": 0,
+    "created_at": "2025-10-06T13:01:01.686176"
+  },
+  "952871361024495636": {
+    "total_games": 17,
+    "wins": 16,
+    "losses": 1,
+    "draws": 0,
+    "total_bet": 310685000,
+    "total_won": 168675000,
+    "total_lost": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T13:07:22.657172"
+  },
+  "1022776315457310721": {
+    "total_games": 79,
+    "wins": 68,
+    "losses": 11,
+    "draws": 0,
+    "total_bet": 2359840980,
+    "total_won": 1311840989,
+    "total_lost": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T13:42:13.145169"
+  },
+  "1013813212887650384": {
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "draws": 0,
+    "total_bet": 3000,
+    "total_won": 3000,
+    "total_lost": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T13:58:42.777233"
+  }
+}
