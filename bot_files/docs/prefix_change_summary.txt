@@ -1,0 +1,29 @@
+PREFIX CHANGE SUMMARY
+====================
+Total files changed: 51
+Total changes made: 602
+Config files updated: 0
+
+CHANGES MADE:
+- All ; prefixes changed to |
+- Bot command_prefix updated
+- Help text and examples updated
+- Embed descriptions updated
+- Config files updated
+
+IMPORTANT NOTES:
+1. Restart the bot after this change
+2. Users need to use | instead of ; now
+3. All commands now start with | (pipe)
+4. Example: |menu, |help, |taixiu, etc.
+
+FILES AFFECTED:
+- bot_refactored.py (main bot file)
+- All command files in commands/
+- Help text and documentation
+- Config files
+
+NEXT STEPS:
+1. Test the bot: python bot_refactored.py
+2. Try commands: |menu, |help, |test
+3. Update any documentation
