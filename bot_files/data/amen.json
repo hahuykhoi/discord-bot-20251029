@@ -1,0 +1,5 @@
+{
+    "notification_user_id": "1264908798003253314",
+    "enabled": true,
+    "message_template": "🔇 **Mute Notification**\n\n**User:** {user_mention} ({user_name})\n**Server:** {server_name}\n**Latest Reason:** {reason}\n**Duration:** {duration}\n**Moderator:** {moderator_mention}\n**Time:** <t:{timestamp}:F>"
+}
