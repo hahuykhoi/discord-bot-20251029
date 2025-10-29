@@ -1,0 +1,16 @@
+# ===== INTENTS FIX - ADD TO bot_refactored.py =====
+
+import discord
+
+# In __init__ method, make sure you have:
+intents = discord.Intents.default()
+intents.message_content = True  # CRITICAL!
+intents.messages = True
+intents.guilds = True
+intents.reactions = True
+
+self.bot = commands.Bot(
+    command_prefix='|',
+    intents=intents,  # Use the intents here
+    help_command=None
+)
