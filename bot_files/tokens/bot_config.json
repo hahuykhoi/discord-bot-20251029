@@ -1,0 +1,29 @@
+{
+    "bots": {
+        "main": {
+            "name": "Main Bot",
+            "token": "YOUR_MAIN_BOT_TOKEN_HERE",
+            "description": "Bot chính của server",
+            "active": true
+        },
+        "backup": {
+            "name": "Backup Bot",
+            "token": "YOUR_BACKUP_BOT_TOKEN_HERE", 
+            "description": "Bot dự phòng",
+            "active": false
+        },
+        "utility": {
+            "name": "Utility Bot",
+            "token": "YOUR_UTILITY_BOT_TOKEN_HERE",
+            "description": "Bot tiện ích",
+            "active": false
+        }
+    },
+    "settings": {
+        "max_concurrent_bots": 5,
+        "message_delay": 1.0,
+        "retry_attempts": 3,
+        "timeout": 30
+    },
+    "last_updated": "2025-10-17T17:13:00+07:00"
+}
