@@ -1,0 +1,56 @@
+{
+    "total_detections": 5,
+    "user_violations": {
+        "1373196495305703484": 4,
+        "1264908798003253314": 1
+    },
+    "recent_violations": [
+        {
+            "user_id": 1373196495305703484,
+            "detected_words": [
+                "địt"
+            ],
+            "message_preview": ";ask địt mẹ mày",
+            "timestamp": "2025-10-17T06:14:49.340735"
+        },
+        {
+            "user_id": 1373196495305703484,
+            "detected_words": [
+                "địt"
+            ],
+            "message_preview": "<@1421161235478745099> địt mẹ mày",
+            "timestamp": "2025-10-17T06:14:58.561960"
+        },
+        {
+            "user_id": 1373196495305703484,
+            "detected_words": [
+                "ngu",
+                "lồn",
+                "địt",
+                "special_pattern"
+            ],
+            "message_preview": ";ask ngu lồn thế địt mẹ",
+            "timestamp": "2025-10-17T06:31:41.560134"
+        },
+        {
+            "user_id": 1373196495305703484,
+            "detected_words": [
+                "cặc"
+            ],
+            "message_preview": "<@1421161235478745099> sủa óc cặc",
+            "timestamp": "2025-10-17T06:31:53.125441"
+        },
+        {
+            "user_id": 1264908798003253314,
+            "detected_words": [
+                "ngu",
+                "lồn",
+                "special_pattern"
+            ],
+            "message_preview": ";ask bot ngu lồn",
+            "timestamp": "2025-10-17T06:37:31.160176"
+        }
+    ],
+    "enabled": true,
+    "last_updated": "2025-10-17T06:37:31.160176"
+}
