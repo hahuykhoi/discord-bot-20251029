@@ -1,0 +1,102 @@
+{
+  "2025-41": {
+    "1250688186422923367": {
+      "total_wins": 251,
+      "taixiu_wins": 5,
+      "rps_wins": 61,
+      "slot_wins": 182,
+      "flip_wins": 0,
+      "blackjack_wins": 3
+    },
+    "952871361024495636": {
+      "total_wins": 58,
+      "taixiu_wins": 35,
+      "rps_wins": 16,
+      "slot_wins": 7,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1264908798003253314": {
+      "total_wins": 31,
+      "taixiu_wins": 24,
+      "rps_wins": 0,
+      "slot_wins": 6,
+      "flip_wins": 0,
+      "blackjack_wins": 1
+    },
+    "1022776315457310721": {
+      "total_wins": 96,
+      "taixiu_wins": 4,
+      "rps_wins": 68,
+      "slot_wins": 24,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1389417980735262893": {
+      "total_wins": 88,
+      "taixiu_wins": 78,
+      "rps_wins": 0,
+      "slot_wins": 10,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1168409001034264667": {
+      "total_wins": 182,
+      "taixiu_wins": 0,
+      "rps_wins": 0,
+      "slot_wins": 182,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1013813212887650384": {
+      "total_wins": 2,
+      "taixiu_wins": 0,
+      "rps_wins": 2,
+      "slot_wins": 0,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1179187837854294056": {
+      "total_wins": 11,
+      "taixiu_wins": 11,
+      "rps_wins": 0,
+      "slot_wins": 0,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1214489739496005642": {
+      "total_wins": 32,
+      "taixiu_wins": 32,
+      "rps_wins": 0,
+      "slot_wins": 0,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1253293782590558259": {
+      "total_wins": 32,
+      "taixiu_wins": 1,
+      "rps_wins": 0,
+      "slot_wins": 31,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    },
+    "1168853555130675251": {
+      "total_wins": 1,
+      "taixiu_wins": 1,
+      "rps_wins": 0,
+      "slot_wins": 0,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    }
+  },
+  "2025-42": {
+    "1168409001034264667": {
+      "total_wins": 17,
+      "taixiu_wins": 0,
+      "rps_wins": 0,
+      "slot_wins": 17,
+      "flip_wins": 0,
+      "blackjack_wins": 0
+    }
+  }
+}
