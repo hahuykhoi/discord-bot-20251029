@@ -1,0 +1,157 @@
+{
+  "12345": {
+    "fish_inventory": {
+      "🐟": 5,
+      "🦈": 2,
+      "🐉": 1
+    },
+    "total_fished": 0,
+    "total_sold": 0,
+    "total_earned": 0,
+    "last_fishing_time": 0,
+    "fishing_level": 3,
+    "fishing_exp": 0
+  },
+  "1272730012956623001": {
+    "fish_inventory": {
+      "🐚": 0,
+      "🦐": 0
+    },
+    "total_fished": 2,
+    "total_sold": 0,
+    "total_earned": 25,
+    "last_fishing_time": 1760198410,
+    "fishing_level": 1,
+    "fishing_exp": 10
+  },
+  "952871361024495636": {
+    "fish_inventory": {
+      "🦋": 1
+    },
+    "total_fished": 1,
+    "total_sold": 0,
+    "total_earned": 0,
+    "last_fishing_time": 1760196340,
+    "fishing_level": 1,
+    "fishing_exp": 10
+  },
+  "1168409001034264667": {
+    "fish_inventory": {
+      "🦈": 1,
+      "🦐": 1,
+      "🐟": 1,
+      "🦀": 1
+    },
+    "total_fished": 4,
+    "total_sold": 0,
+    "total_earned": 0,
+    "last_fishing_time": 1760198602,
+    "fishing_level": 1,
+    "fishing_exp": 45
+  },
+  "1253293782590558259": {
+    "fish_inventory": {
+      "🦀": 1
+    },
+    "total_fished": 1,
+    "total_sold": 0,
+    "total_earned": 0,
+    "last_fishing_time": 1760196429,
+    "fishing_level": 1,
+    "fishing_exp": 5
+  },
+  "1250688186422923367": {
+    "fish_inventory": {
+      "🐟": 107,
+      "🦀": 286,
+      "🐚": 270,
+      "🦐": 321,
+      "🐡": 57,
+      "🪼": 229,
+      "🦂": 14,
+      "🦄": 26,
+      "🦞": 75,
+      "🐠": 69,
+      "🦋": 12,
+      "🐊": 28,
+      "🐙": 64,
+      "⭐": 9,
+      "🦈": 74,
+      "🐝": 41,
+      "🦎": 13,
+      "🐋": 51,
+      "🎣": 68,
+      "🐢": 45,
+      "⚡": 4,
+      "🧜": 27,
+      "🦑": 31,
+      "🦆": 30,
+      "🦭": 43,
+      "🐧": 32,
+      "🐍": 21,
+      "🌟": 19,
+      "💫": 3,
+      "👑": 32,
+      "💎": 19,
+      "🕷️": 20,
+      "🐉": 40,
+      "🐛": 21,
+      "🌈": 2,
+      "🔥": 3,
+      "🐌": 9
+    },
+    "total_fished": 2216,
+    "total_sold": 1,
+    "total_earned": 900,
+    "last_fishing_time": 1760253894,
+    "fishing_level": 25,
+    "fishing_exp": 2400
+  },
+  "1264908798003253314": {
+    "fish_inventory": {
+      "🪼": 1,
+      "🦐": 0,
+      "🐚": 0,
+      "🐢": 0,
+      "🧜": 0,
+      "🦭": 0,
+      "🎣": 0,
+      "🦀": 1,
+      "🐡": 0,
+      "🐊": 0,
+      "⚡": 0,
+      "🐟": 0,
+      "⭐": 0,
+      "🐛": 0,
+      "🦈": 2
+    },
+    "total_fished": 27,
+    "total_sold": 0,
+    "total_earned": 39780,
+    "last_fishing_time": 1760234340,
+    "last_free_fishing_time": 0,
+    "fishing_level": 3,
+    "fishing_exp": 215,
+    "current_rod": "basic",
+    "owned_rods": [
+      "basic"
+    ]
+  },
+  "1373196495305703484": {
+    "fish_inventory": {
+      "🧜": 1,
+      "🦈": 1
+    },
+    "total_fished": 2,
+    "total_sold": 0,
+    "total_earned": 0,
+    "last_fishing_time": 1760269133,
+    "last_free_fishing_time": 0,
+    "fishing_level": 1,
+    "fishing_exp": 75,
+    "current_rod": "basic",
+    "owned_rods": [
+      "basic"
+    ]
+  }
+}
