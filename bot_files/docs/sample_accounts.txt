@@ -1,0 +1,10 @@
+user1@gmail.com:password123
+user2@gmail.com:password456
+user3@gmail.com:password789
+testaccount@gmail.com:mypassword
+demo@gmail.com:demopass
+sample@gmail.com:samplepass123
+account7@gmail.com:pass7890
+account8@gmail.com:pass8901
+account9@gmail.com:pass9012
+account10@gmail.com:pass0123
