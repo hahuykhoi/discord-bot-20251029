@@ -1,0 +1,69 @@
+{
+  "1168409001034264667": {
+    "total_games": 376,
+    "total_bet": 5174250959988,
+    "total_won": 9862616588989,
+    "biggest_win": 1250000000000,
+    "jackpots": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T13:57:17.951542"
+  },
+  "1250688186422923367": {
+    "total_games": 335,
+    "total_bet": 5781876302700,
+    "total_won": 16009561191471,
+    "biggest_win": 5000000000000,
+    "jackpots": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T14:02:53.559320",
+    "games_10m_plus": 9
+  },
+  "1022776315457310721": {
+    "total_games": 50,
+    "total_bet": 8040999998,
+    "total_won": 10601999996,
+    "biggest_win": 2000000000,
+    "jackpots": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T14:08:49.604993",
+    "games_10m_plus": 17
+  },
+  "1389417980735262893": {
+    "total_games": 36,
+    "total_bet": 27810000,
+    "total_won": 77200000,
+    "biggest_win": 25000000,
+    "jackpots": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T17:25:41.154150"
+  },
+  "1264908798003253314": {
+    "total_games": 16,
+    "total_bet": 66600,
+    "total_won": 6900,
+    "biggest_win": 3600,
+    "jackpots": 0,
+    "balance": 0,
+    "created_at": "2025-10-06T17:49:41.605401"
+  },
+  "952871361024495636": {
+    "total_games": 20,
+    "total_bet": 581000000,
+    "total_won": 470000000,
+    "biggest_win": 160000000,
+    "jackpots": 0,
+    "balance": 0,
+    "games_10m_plus": 14,
+    "created_at": "2025-10-07T13:09:15.761847"
+  },
+  "1253293782590558259": {
+    "total_games": 43,
+    "total_bet": 1949000100,
+    "total_won": 1938000200,
+    "biggest_win": 160000000,
+    "jackpots": 0,
+    "balance": 0,
+    "games_10m_plus": 37,
+    "created_at": "2025-10-08T14:06:19.650317"
+  }
+}
