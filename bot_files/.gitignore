@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+config.json
+
+# Backups - không commit backup vào git
+data_backups/
+temp_restore/
+
+# ==============================================
+# 🎮 GAME DATA FILES - KHÔNG COMMIT VÀO GIT
+# ==============================================
+# Các file này chứa dữ liệu người chơi (tiền, stats)
+# Phải backup riêng trước khi update!
+
+# Wallet & Money System
+shared_wallet.json
+wallet_data.json
+
+# Game Data
+taixiu_data.json
+flip_coin_data.json
+flip_data.json
+rps_data.json
+slot_data.json
+blackjack_sessions.json
+blackjack_data.json
+
+# User Data
+daily_data.json
+user_priority.json
+warnings.json
+mute_data.json
+auto_reply_data.json
+
+# Bot State
+maintenance_mode.json
+channel_permissions.json
+command_permissions.json
+
+# Admin Data
+supreme_admin.json
+admin_ids.json
+
+# ==============================================
+# 📋 Tạm thời - có thể commit nếu cần
+# ==============================================
+# Uncomment dòng dưới nếu muốn giữ lại trong git
+# !shared_wallet.json.template
+# !taixiu_data.json.template
