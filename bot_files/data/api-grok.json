@@ -1,0 +1,23 @@
+{
+    "current_api_index": 0,
+    "apis": [
+        {
+            "name": "Grok 4 Primary",
+            "api_key": "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",
+            "status": "active",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-10-01",
+            "base_url": "https://api.openrouter.ai/api/v1",
+            "model": "x-ai/grok-beta"
+        }
+    ],
+    "settings": {
+        "max_errors_before_switch": 3,
+        "daily_limit_per_api": 1000,
+        "auto_reset_daily": true,
+        "fallback_message": "🤖 Grok AI hiện tại không khả dụng, vui lòng thử lại sau!",
+        "provider": "openrouter"
+    }
+}
