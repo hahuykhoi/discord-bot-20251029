@@ -1,0 +1,12 @@
+{
+    "supreme_admin_id": 1264908798003253314,
+    "description": "ID của Administrator tối cao - chỉ có 1 người duy nhất có quyền này",
+    "permissions": [
+        "Quản lý tất cả admin khác",
+        "Sử dụng mọi lệnh của bot",
+        "Thay đổi cấu hình bot",
+        "Quyền tối cao không thể bị thu hồi"
+    ],
+    "created_at": "2025-09-28T12:24:51+07:00",
+    "last_updated": "2025-10-05T12:57:31.610274"
+}
