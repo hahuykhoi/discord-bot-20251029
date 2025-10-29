@@ -1,0 +1,24 @@
+{
+    "repository_url": "https://github.com/hahuykhoi/bot-data-backup.git",
+    "branch": "main",
+    "data_files": [
+        "shared_wallet.json",
+        "taixiu_data.json",
+        "api-gemini.json",
+        "config.json",
+        "admin.json",
+        "warnings.json",
+        "blackjack_data.json",
+        "flip_coin_data.json",
+        "rps_data.json",
+        "slot_data.json",
+        "supreme_admin.json",
+        "channel_permissions.json",
+        "command_permissions.json",
+        "priority.json"
+    ],
+    "backup_enabled": true,
+    "auto_backup_before_pull": true,
+    "backup_retention_days": 30,
+    "notes": "Cấu hình sao lưu và đồng bộ dữ liệu từ GitHub. Thay đổi repository_url thành repo thực tế của bạn."
+}
