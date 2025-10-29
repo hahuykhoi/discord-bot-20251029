@@ -1,0 +1,15 @@
+[Unit]
+Description=Discord Bot - MTTOOL 2025
+After=network.target
+
+[Service]
+Type=simple
+User=yourusername
+WorkingDirectory=/home/yourusername/discord-bot
+ExecStart=/home/yourusername/discord-bot/start_elementiamc.sh
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
