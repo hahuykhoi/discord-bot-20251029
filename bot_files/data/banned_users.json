@@ -1,0 +1,45 @@
+{
+    "banned_users": {
+        "1245216792691871744": {
+            "reason": "Không có lý do",
+            "timestamp": "2025-10-07T07:51:54.357155",
+            "banned_by": 1264908798003253314
+        },
+        "1250688186422923367": {
+            "reason": "óc cặc",
+            "timestamp": "2025-10-12T16:22:23.648408",
+            "banned_by": 1264908798003253314
+        }
+    },
+    "description": "Danh sách users bị cấm sử dụng bot",
+    "ban_history": [
+        {
+            "user_id": 1245216792691871744,
+            "action": "ban",
+            "admin_id": 1264908798003253314,
+            "reason": "Không có lý do",
+            "timestamp": "2025-10-07T07:51:54.360876"
+        },
+        {
+            "user_id": 1389417980735262893,
+            "action": "ban",
+            "admin_id": 1264908798003253314,
+            "reason": "ngu lồn",
+            "timestamp": "2025-10-08T16:54:48.342759"
+        },
+        {
+            "user_id": 1250688186422923367,
+            "action": "ban",
+            "admin_id": 1264908798003253314,
+            "reason": "óc cặc",
+            "timestamp": "2025-10-12T16:22:23.649493"
+        },
+        {
+            "user_id": 1389417980735262893,
+            "action": "unban",
+            "admin_id": 1264908798003253314,
+            "reason": "Được tha thứ",
+            "timestamp": "2025-10-15T11:19:47.524520"
+        }
+    ]
+}
