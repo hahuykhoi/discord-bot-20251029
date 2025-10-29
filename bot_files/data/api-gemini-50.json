@@ -1,0 +1,461 @@
+{
+    "current_api_index": 0,
+    "apis": [
+        {
+            "name": "Primary API",
+            "api_key": "AIzaSyBgijJ_O2M5515A-qJCUjFr0uXsGeY7CfU",
+            "status": "active",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 83,
+            "last_reset": "2025-09-30"
+        },
+        {
+            "name": "Backup API 1",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 2",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 3",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 4",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 5",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 6",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 7",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 8",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 9",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 10",
+            "api_key": "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",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 11",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 12",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 13",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 14",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 15",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 16",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 17",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 18",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 19",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 20",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 21",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 22",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 23",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 24",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 25",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 26",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 27",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 28",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 29",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 30",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 31",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 32",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 33",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 34",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 35",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 36",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 37",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 38",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 39",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 40",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 41",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 42",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 43",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 44",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 45",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 46",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 47",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 48",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        },
+        {
+            "name": "Backup API 49",
+            "api_key": "",
+            "status": "standby",
+            "error_count": 0,
+            "last_error": null,
+            "daily_usage": 0,
+            "last_reset": "2025-01-01"
+        }
+    ],
+    "settings": {
+        "max_errors_before_switch": 1,
+        "daily_limit_per_api": 1000,
+        "auto_reset_daily": true,
+        "fallback_message": "🤖 AI hiện tại không khả dụng, vui lòng thử lại sau!"
+    }
+}
