@@ -1,0 +1,21 @@
+{
+    "github_settings": {
+        "default_branch": "main",
+        "download_folder": "./downloads",
+        "backup_old_files": true,
+        "allowed_extensions": [
+            ".json",
+            ".txt",
+            ".py",
+            ".md"
+        ],
+        "max_file_size_mb": 10
+    },
+    "repositories": [
+        {
+            "name": "bot-data-backup",
+            "owner": "hahuykhoi",
+            "description": "Bot data backup repository"
+        }
+    ]
+}
